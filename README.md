@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Anushka WalsePatil</h1>
 <h3 align="center">Dublin based Data Engineer. Coffee connoisseur. Codes better after caffeine!</h3>
 
-<h3 align="left">Connect with me: anushka.walsepatil@gmail.com </h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
