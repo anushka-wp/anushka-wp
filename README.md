@@ -1,7 +1,14 @@
 <h1 align="center">Hello 👋, I'm Anushka WalsePatil</h1>
 <h3 align="center">Dublin based Data Engineer. Coffee connoisseur. Codes better after caffeine!</h3>
 
-<h3 align="left">Connect with me:</h3>
+- 🔭 I’m currently working on **SQL, Python, Power BI**
+
+- 👯 I’m looking to collaborate on **Data Analysis & Insights, Business Intelligence & Dashboard, Marketing Analytics**
+
+- 📫 How to reach me **anushka.walsepatil@gmail.com**
+
+- ⚡ Fun fact **I love baking, and I'm on a quest to bake the perfect banana bread. I'm on my 27th attempt.**
+
 <p align="left">
 </p>
 
